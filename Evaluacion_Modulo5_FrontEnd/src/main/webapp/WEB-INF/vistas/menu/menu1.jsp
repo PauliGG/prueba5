@@ -1,0 +1,35 @@
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	<div class="container-fluid">
+		<a class="navbar-brand" href="#">Grupo 2</a>
+		<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+			data-bs-target="#navbarNav" aria-controls="navbarNav"
+			aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<div class="collapse navbar-collapse" id="navbarNav">
+		
+			<li class="nav-item">
+				<a class="nav-link" href="/">Inicio</a>
+			</li>
+			
+			<li class="nav-item">
+					<a class="nav-link" href="/contacto/">Contacto</a>
+			</li>
+				
+			<li class="nav-item">
+					<a class="nav-link" href="/capacitacion/crear">Crear Capacitacion</a>
+			</li>				
+			
+			<li class="nav-item">
+				<a class="nav-link" href="/capacitacion/listar">Listar Capacitacion</a>
+			</li> 
+			
+			<li class="nav-item">
+				<a class="nav-link" href="/confirmLogout">Logout</a>
+			</li> 
+ 
+		</div>
+	</div>
+</nav>

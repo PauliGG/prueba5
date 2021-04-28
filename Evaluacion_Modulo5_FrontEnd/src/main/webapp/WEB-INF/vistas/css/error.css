@@ -1,0 +1,27 @@
+label.error{
+    opacity: 80%;
+    color: red;
+    font-weight: bold;
+  
+    font-size: 0.9rem;
+
+    width: 100%;
+    text-align: left;
+    margin-bottom: 0.5rem;
+}
+
+input.error{
+    background-color:#ffeded;
+    border-Color: red;
+    border-style: dashed;
+    font-size: 0.9rem;
+} 
+
+select.error{
+    background-color:#ffeded;
+    border-Color: red;
+    border-style: dashed;
+    font-size: 0.9rem;
+}
+
+ 
